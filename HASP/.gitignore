@@ -1,0 +1,5 @@
+HASP_emul
+auxiliary
+Makefile.win
+*.o
+*.exe
