@@ -1,3 +1,10 @@
-HIEW
 manual.pdf
-task.pdf
+r2book.epub
+
+ACT-1/*
+!ACT-1/*.png
+!ACT-1/ACT-1.COM
+
+CRACKME/*
+!CRACKME/*.png
+!CRACKME/CRACKME.COM
